@@ -47,8 +47,8 @@ class hashtag {
 					 $out.= "<br><a href='https://twitter.com/hashtag/".$words[$x]."'>#".$words[$x]."</a>";
 				} 
 				
-				if ($service==""){ 
-				 $out= "<br>".$x." ".$words[$x];
+				if ($service=="plain"){ 
+				 $out.= "<br>".$x." ".$words[$x];
 				}
 				 
  			}
