@@ -3,7 +3,7 @@ Php clas that generates hashtags from a phrase with links to Instagram, Twitter 
  
 Requirements php >= 5.4.0
 
-Intallation just copy the class to your classes folder
+Installation just copy the class to your classes folder
 
 Basic Usage;
 
