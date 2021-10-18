@@ -1,5 +1,5 @@
 # hashtag
-Php clas that generates hashtags from a phrase with links to Instagram, Twitter or plain text
+Php class that generates hashtags from a phrase with links to Instagram, Twitter or plain text
  
 Requirements php >= 5.4.0
 
